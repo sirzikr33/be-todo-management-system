@@ -4,3 +4,5 @@
 # Node Module
 node_modules
 
+.eslintrc.json
+.prettierrc.json
